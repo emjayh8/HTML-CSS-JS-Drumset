@@ -1,0 +1,47 @@
+.image {
+	width: 200px;
+	height: 200px;
+	float: left;
+	
+}
+
+.playing {
+	transform: scale(1.5);
+}
+
+#images{
+	padding-top: 10%;
+	padding-left: 10%;
+	align-items: center;
+}
+
+h3 {
+	font-family: sans-serif;
+	color:  darkorange;
+	float: left;
+}
+h1 {
+	font-family: sans-serif;
+	color: darkcyan;
+	padding-left: 45%;
+}
+
+#tomtomimg {
+	
+}
+
+#snareimg {
+
+}
+
+#hihatimg {
+
+}
+
+#hihatimg2 {
+
+}
+
+#kickdrumimg {
+
+}
